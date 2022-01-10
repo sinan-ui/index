@@ -1,0 +1,5 @@
+text = "I love to eat chocolate cake"
+
+result = text.index('chocolate')
+
+print(result)
